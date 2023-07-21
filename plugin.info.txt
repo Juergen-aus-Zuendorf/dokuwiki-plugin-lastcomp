@@ -1,0 +1,7 @@
+base	lastcomp
+author	
+email	
+date	
+name	lastcomp Plugin
+desc	Displays the timestamp of the last modification of two pages.
+url		http://www.dokuwiki.org/plugin:lastcomp
