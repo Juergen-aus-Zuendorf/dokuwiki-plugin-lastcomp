@@ -13,11 +13,11 @@
 
  * Examples:
  * ~~LASTCOMP|ktg00:m0000068.004.v01~~
- *             compares the current wiki page with the page 'ktg00:m0000068.004.v01'
+ *            compares the current wiki page with the page 'ktg00:m0000068.004.v01'
  * ~~LASTCOMP|ktg00:m0000068.004.v01|playground:playground~~
- *             compares the wiki page 'ktg00:m0000068.004.v01' with the page 'playground:playground'
+ *            compares the wiki page 'ktg00:m0000068.004.v01' with the page 'playground:playground'
  *
- * Additionally required:
+ * Additionally required for the box output:
  * wrap plugin
 **/
 
