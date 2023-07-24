@@ -1,7 +1,7 @@
-base   lastcomp
+base lastcomp
 author Juergen aus Zündorf
-email  h-j-schuemmer@web.de
-date   2023-07-24
-name   lastcomp Plugin
-desc   Displays the timestamp of the last modification of two pages.
-url    http://www.dokuwiki.org/plugin:lastcomp
+email h-j-schuemmer@web.de
+date 2023-07-24
+name lastcomp Plugin
+desc Displays the timestamp of the last modification of two pages.
+url http://www.dokuwiki.org/plugin:lastcomp
